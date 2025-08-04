@@ -1,0 +1,17 @@
+body{
+    background-color: darkorange;
+}
+h1{
+    color:aliceblue;
+    text-align: center;
+    font: 60px;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font: 120px;
+}
+img{
+    width: 30%;
+    margin-left: 660px;
+}
